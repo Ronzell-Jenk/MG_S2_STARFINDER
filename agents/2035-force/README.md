@@ -20,7 +20,7 @@ This directory is the canonical home for the 2035 force-structure package.
 
 ### Scenarios and Annexes
 - [Scenarios and Annexes Index (Non-Baseline)](scenarios/README.md)
-- [CAMD Tactical Overlay Annex — Scenario 2 (Viper-375)](scenarios/camd-tactical-overlay-annex-scenario-2.md)
+- [CAMD Tactical Overlay Annex — Scenario 2 (Viper-375)](scenarios/viper-375-camd-tactical-overlay-annex-scenario-2.md)
 - [Viper-375 Mission Designer Layout Sheet](scenarios/viper-375-mission-designer-layout-sheet.md)
 - [Viper-375 Tactical Overlay Annex](scenarios/viper-375-tactical-overlay-annex.md)
 
