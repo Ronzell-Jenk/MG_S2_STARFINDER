@@ -14,9 +14,9 @@ This directory is the canonical home for the 2035 force-structure package.
 - Platoon-level baseline guidance is included in the task-force doctrine package.
 
 ### Task Force
-- [CAMD Task Force 2035](task-force/camd-task-force-2035.md)
-- [CAMD Higher Command and Tasking](task-force/camd-higher-command-and-tasking.md)
-- [2035 Combined Arms Maneuver Detachment — Full Doctrine, TO&E, SOP, and Mission Profiles](task-force/combined-arms-maneuver-detachment-2035.md)
+- [CAMD Task Force 2035](task-force/2035-camd-task-force.md)
+- [CAMD Higher Command and Tasking](task-force/2035-camd-higher-command-and-tasking.md)
+- [2035 Combined Arms Maneuver Detachment — Full Doctrine, TO&E, SOP, and Mission Profiles](task-force/2035-combined-arms-maneuver-detachment.md)
 
 ### Scenarios and Annexes
 - [Scenarios and Annexes Index (Non-Baseline)](scenarios/README.md)

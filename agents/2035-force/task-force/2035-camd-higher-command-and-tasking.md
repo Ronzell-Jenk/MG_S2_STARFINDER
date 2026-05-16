@@ -43,5 +43,5 @@ Tasking should assign outcomes, control measures, and limits, while allowing sub
 
 ## Related Pages
 - [2035 Force Master Index](../README.md)
-- [CAMD Task Force 2035](camd-task-force-2035.md)
-- [2035 Combined Arms Maneuver Detachment](combined-arms-maneuver-detachment-2035.md)
+- [CAMD Task Force 2035](2035-camd-task-force.md)
+- [2035 Combined Arms Maneuver Detachment](2035-combined-arms-maneuver-detachment.md)

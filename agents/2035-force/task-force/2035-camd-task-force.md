@@ -68,5 +68,5 @@ The unit has accomplished its task when it:
 
 ## Related Pages
 - [2035 Force Master Index](../README.md)
-- [CAMD Higher Command and Tasking](camd-higher-command-and-tasking.md)
-- [2035 Combined Arms Maneuver Detachment](combined-arms-maneuver-detachment-2035.md)
+- [CAMD Higher Command and Tasking](2035-camd-higher-command-and-tasking.md)
+- [2035 Combined Arms Maneuver Detachment](2035-combined-arms-maneuver-detachment.md)
