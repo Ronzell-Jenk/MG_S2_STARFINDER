@@ -25,6 +25,7 @@ This directory is the canonical home for the 2035 force-structure package.
 ### Task Force
 - [CAMD Task Force 2035](task-force/camd-task-force-2035.md)
 - [CAMD Higher Command and Tasking](task-force/camd-higher-command-and-tasking.md)
+- [2035 Combined Arms Maneuver Detachment — Full Doctrine, TO&E, SOP, and Mission Profiles](combined-arms-maneuver-detachment.md)
 
 ### Scenarios and Annexes
 - [CAMD Tactical Overlay Annex — Issue #2](scenarios/camd-tactical-overlay-annex-issue-2.md)
