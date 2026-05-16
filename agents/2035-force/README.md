@@ -5,32 +5,24 @@ This directory is the canonical home for the 2035 force-structure package.
 ## Master Index
 
 ### Canon
-- [Naming Conventions](canon/naming-conventions.md)
-- [Assumptions and Realism Boundary](canon/assumptions-and-realism-boundary.md)
-- [Doctrinal Principles](canon/doctrinal-principles.md)
-- [Echelon Ownership](canon/echelon-ownership.md)
+- Canon references are maintained through the task-force doctrine package in this branch.
 
 ### Squad
-- [Infantry Squad 2035](squad/infantry-squad-2035.md)
-- [Squad Battle Drills 2035](squad/squad-battle-drills-2035.md)
+- Squad-level baseline guidance is included in the task-force doctrine package.
 
 ### Platoon
-- [Mechanized Platoon 2035](platoon/mechanized-platoon-2035.md)
-- [Mechanized Platoon Tactics 2035](platoon/mechanized-platoon-tactics-2035.md)
-- [Mechanized Platoon Battle Drills 2035](platoon/mechanized-platoon-battle-drills-2035.md)
-- [Recon Platoon 2035](platoon/recon-platoon-2035.md)
-- [Cavalry Platoon 2035](platoon/cavalry-platoon-2035.md)
-- [Weapons Platoon 2035](platoon/weapons-platoon-2035.md)
+- Platoon-level baseline guidance is included in the task-force doctrine package.
 
 ### Task Force
 - [CAMD Task Force 2035](task-force/camd-task-force-2035.md)
 - [CAMD Higher Command and Tasking](task-force/camd-higher-command-and-tasking.md)
-- [2035 Combined Arms Maneuver Detachment — Full Doctrine, TO&E, SOP, and Mission Profiles](combined-arms-maneuver-detachment.md)
+- [2035 Combined Arms Maneuver Detachment — Full Doctrine, TO&E, SOP, and Mission Profiles](task-force/combined-arms-maneuver-detachment-2035.md)
 
 ### Scenarios and Annexes
-- [CAMD Tactical Overlay Annex — Issue #2](scenarios/camd-tactical-overlay-annex-issue-2.md)
-- [Viper-375 Mission Designer Layout Sheet](viper-375-mission-designer-layout-sheet.md)
-- [Viper-375 Tactical Overlay Annex](viper-375-tactical-overlay-annex.md)
+- [Scenarios and Annexes Index (Non-Baseline)](scenarios/README.md)
+- [CAMD Tactical Overlay Annex — Scenario 2 (Viper-375)](scenarios/camd-tactical-overlay-annex-scenario-2.md)
+- [Viper-375 Mission Designer Layout Sheet](scenarios/viper-375-mission-designer-layout-sheet.md)
+- [Viper-375 Tactical Overlay Annex](scenarios/viper-375-tactical-overlay-annex.md)
 
 ## Legacy and Editorial Notes
 

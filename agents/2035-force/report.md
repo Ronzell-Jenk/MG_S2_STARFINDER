@@ -2,7 +2,7 @@
 
 > Legacy editorial report retained for reference.
 >
-> This file is **not** the active canon source of truth.
+> This file is **editorial history only** and is **not** the active canon source of truth.
 > Use `agents/2035-force/README.md` and the organized subfolders under `canon/`, `squad/`, `platoon/`, `task-force/`, and `scenarios/` for current material.
 
 ## Purpose of This Legacy Report

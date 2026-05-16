@@ -63,3 +63,10 @@ The unit has accomplished its task when it:
 - holds or denies assigned key terrain/objective areas,
 - preserves maneuver freedom for higher headquarters,
 - retains enough combat power to continue operations without operational pause.
+
+---
+
+## Related Pages
+- [2035 Force Master Index](../README.md)
+- [CAMD Higher Command and Tasking](camd-higher-command-and-tasking.md)
+- [2035 Combined Arms Maneuver Detachment](combined-arms-maneuver-detachment-2035.md)
