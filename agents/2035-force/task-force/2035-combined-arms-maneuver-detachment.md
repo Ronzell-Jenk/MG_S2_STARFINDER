@@ -363,10 +363,10 @@ CAMD (MAJ)
 
 ## Related Pages
 - [2035 Force Master Index](../README.md)
-- [CAMD Task Force 2035](camd-task-force-2035.md)
-- [CAMD Higher Command and Tasking](camd-higher-command-and-tasking.md)
+- [CAMD Task Force 2035](2035-camd-task-force.md)
+- [CAMD Higher Command and Tasking](2035-camd-higher-command-and-tasking.md)
 - [Scenarios and Annexes Index](../scenarios/README.md)
 
 ---
 
-*File location: `agents/2035-force/task-force/combined-arms-maneuver-detachment-2035.md`*
+*File location: `agents/2035-force/task-force/2035-combined-arms-maneuver-detachment.md`*
